@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740743524,
+	"version": 1740744740,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,14 @@
 		"images/asia2-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/trump 2 (1).m4a",
+		"media/trump 2 (1).ogg",
+		"media/drop.m4a",
+		"media/drop.ogg",
+		"media/us aid - bgm.m4a",
+		"media/us aid - bgm.ogg",
+		"media/coin collect.m4a",
+		"media/coin collect.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
