@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740744740,
+	"version": 1740745378,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,7 @@
 		"images/tile-sheet8.png",
 		"images/europe-sheet0.png",
 		"images/asia2-sheet0.png",
+		"images/pickonesheet-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/trump 2 (1).m4a",
